@@ -1,0 +1,80 @@
+.sidebar {
+    padding-top: 20px;
+    padding-right: 0;
+}
+
+.sidebar-nav > ul {
+    margin-left: 28px; 
+    margin-right: 5px;
+}
+
+.sidebar-nav > ul li a {
+    border-radius: 5px;
+    padding-left: 12px;
+}
+
+.sidebar-nav > ul li p {
+    padding-left: 12px;
+}
+
+.sidebar li>p {
+    text-transform: uppercase;
+    color: #1B1E22;
+    font-size: 14px;
+}
+
+.sidebar ul li ul li:first-child {
+    margin-top: 0;
+}
+
+.sidebar ul li ul {
+    margin-left: 0;
+}
+
+.sidebar-nav > ul:first-child > li {
+    margin-bottom: 30px;
+}
+
+.sidebar ul li a:hover {
+    text-decoration: none;
+    background-color: #F4F3EF;
+}
+
+.sidebar-nav span {
+    font-size: 125%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.sidebar-nav > ul:first-child > li:first-child > p a {
+    text-transform: uppercase;
+    color: #1B1E22;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 0;
+}
+
+.sidebar-nav > ul:first-child > li:first-child > p a:hover {
+    background-color: transparent;
+}
+
+.anchor span {
+    color: #1B1E22;
+}
+
+.sidebar ul li.active>a {
+    border-right: 0;
+    font-weight: bold;
+    color: #981DE4;
+}
+
+.markdown-section a {
+    color: #981DE4;
+    font-weight: 400;
+}
+
+.content {
+    padding-top: 25px;
+    width: 75%;
+    max-width: 800px;
+}
