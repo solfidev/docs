@@ -15,6 +15,6 @@
 - Audits &amp; Contracts
 
 - Official Links
-    - [SolFi dApp](http://google.com)
-    - [Telegram](http://google.com)
-    - [Twitter](http://google.com)
+    - [SolFi dApp](https://solfi.io)
+    - [Telegram](https://t.me/sol_fi_io)
+    - [Twitter](https://google.com)
