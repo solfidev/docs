@@ -78,3 +78,32 @@
     width: 75%;
     max-width: 800px;
 }
+
+body.sticky .sidebar, body.sticky .sidebar-toggle {
+    top: 0;
+    bottom: auto;
+}
+
+.sidebar-toggle span {
+    background-color: #981DE4; 
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar {
+        padding-top: 35px;
+    }
+
+    .sidebar-toggle {
+        padding-left: 30px;
+    }
+
+    .body.close .sidebar-toggle {
+        padding: 15px;
+    }
+
+    .content {
+        width: auto;
+        max-width: none;
+        padding-left: 25px;
+    }
+}
