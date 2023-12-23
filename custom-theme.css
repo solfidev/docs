@@ -88,12 +88,17 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
     background-color: #981DE4; 
 }
 
+.sidebar-toggle {
+    left: -300px;
+}
+
 @media screen and (max-width: 768px) {
     .sidebar {
         padding-top: 35px;
     }
 
     .sidebar-toggle {
+        left: auto;
         padding-left: 30px;
     }
 
