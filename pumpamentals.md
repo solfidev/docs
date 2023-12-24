@@ -2,7 +2,7 @@
 
 ### Pumpamentals of $SOLFI
 
-- Programmed buying pressures
+- Programmed buying pressure
 - Daily supply burning
 - Long-term staking rewards in SOL
 - Daily increase in difficulty to print more $SOLFI

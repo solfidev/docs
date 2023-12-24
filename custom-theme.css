@@ -81,7 +81,6 @@
 
 body.sticky .sidebar, body.sticky .sidebar-toggle {
     top: 0;
-    bottom: auto;
 }
 
 .sidebar-toggle span {
