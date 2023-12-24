@@ -19,9 +19,8 @@ Your potential earnings (APY) is estimated on the main app. Our strategic ecosys
 SOL deposited for printing $SOLFI is strategically spread across the growing SolFi ecosystem to promote token growth and encourage users to hold. All which is covered in the docs: [Burning](#burning.md), [Buyback (Buy + Burn)](#buyback.md), [Dividends](#dividends.md), [Reserve](#Reserve)
 
 (need image here)
-[40%] Buy and Burn
+[50%] Buy and Burn
 [25%]Dividend Payments
 [10%] Liquidity Pool
-[10%] NFT Boxes
 [10%]  Reserve
 [5%]  Team
