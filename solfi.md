@@ -1,6 +1,9 @@
 # 📖 Overview
 
 ### Welcome to the SolFi ecosystem!
+
+![Welcome to the SolFi ecosystem!](./images/02.png)
+
 $SOLFI is redefining DeFi through a suite of products designed around smart earning mechanics. We have engineered a new DeFi ecosystem that aims to generate strong buy pressure, reduce supply, and encourage holding through rewarding community members in payouts of SOL, aligning interests with the sustained growth and vitality of the ecosystem. 
 
 We plan to expand our suite of products in the future so stay updated on our Twitter.

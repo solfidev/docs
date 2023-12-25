@@ -4,6 +4,9 @@
 25% of all SOL deposited for printing is contributed to the dividend pool. Dividends are a fundamental part of the $SOLFI ecosystem, offering a passive income stream of SOL to our members that are holding $SOLFI.
 
 ### How can I earn?
+
+![SOLFI Dividends](./images/06.png)
+
 By holding $SOLFI and staking you can earn SOL. Your exact earnings depends on how long you have held and staked your coins as well as the total amount you have versus what is already in the staking pool.
 
 ### How the dividend system works

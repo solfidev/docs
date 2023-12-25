@@ -5,6 +5,8 @@
 
 The more people that print $SOLFI, the more buys that happen.
 
+![SOLFI Buy and burn](./images/05.png)
+
 ### Why is this important?
 By constantly buying and burning tokens this ensures that the overall token supply is kept in check to avoid a large influx of new tokens entering the market quickly.
 

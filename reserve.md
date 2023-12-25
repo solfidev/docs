@@ -1,5 +1,7 @@
 # 🏦 Reserve
 
+![SOLFI Reserve](./images/07.png)
+
 ### Introduction to the Reserve Fund
 The reserve is a key component of the $SOLFI ecosystem. It's designed to maintain stability and stimulate growth during periods of slowed activity or market downturns. It is a locked stockpile of SOL 💰
 

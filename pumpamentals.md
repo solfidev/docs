@@ -1,5 +1,7 @@
 # 💰 Pumpamentals
 
+![Pumpamentals of $SOLFI](./images/01.png)
+
 ### Pumpamentals of $SOLFI
 
 - Programmed buying pressure
