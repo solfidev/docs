@@ -18,4 +18,4 @@
 - Official Links
     - [SolFi dApp](https://solfi.io)
     - [Telegram](https://t.me/sol_fi_io)
-    - [Twitter](https://google.com)
+    - [Twitter](https://twitter.com/sol_fi_io)
