@@ -92,6 +92,13 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
 }
 
 @media screen and (max-width: 768px) {
+    body.close .sidebar-toggle {
+        padding: 15px;
+        width: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
     .sidebar {
         padding-top: 35px;
     }
@@ -99,10 +106,6 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
     .sidebar-toggle {
         left: auto;
         padding-left: 30px;
-    }
-
-    .body.close .sidebar-toggle {
-        padding: 15px;
     }
 
     .content {
